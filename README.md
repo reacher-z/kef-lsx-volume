@@ -1,5 +1,7 @@
 # LSX II Volume Fixer
 
+[![Featured by Awesome REA](https://raw.githubusercontent.com/reacher-z/Awesome-REA/477658fa73f6860e86cd1fc526657c2efdc25194/assets/featured-by-awesome-rea-inline.svg)](https://awesomerea.org/resources/kef-lsx-volume-case/)
+
 Fine-grained volume for a **KEF LSX II connected to a Mac over USB**. Out of the box, the Mac's
 volume keys only reach 6 loudness levels on this speaker, and most key presses do nothing. With
 this project every key press gives a real, equal step: 16 levels, 3.4 dB apart, with the normal
